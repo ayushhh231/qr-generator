@@ -1,0 +1,28 @@
+body{
+    background-color: #070A52;
+    color: aliceblue;
+}
+.container{
+    text-align: center;
+}
+#size{
+    height: 40px;
+    font-size: large;
+    width: 250px;
+    margin: 30px 0px 30px 0px;
+    background-color: #1A5F7A;
+}
+#qrText{
+    height: 40px;
+    width: 250px;
+    background-color: #1A5F7A;
+    font-size: large;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+button{
+    height: 40px;
+    width: 260px;
+    background-color: #FFB84C;
+    border-radius: 10px;
+}
